@@ -14,3 +14,5 @@ elif gender == 'F':
 else:
     assert False, f'what the fuck is the "{gender}" gender?'
         
+    
+# Note, NEVER user assertion for Data Validation!
